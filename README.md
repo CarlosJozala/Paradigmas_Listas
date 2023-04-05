@@ -1,2 +1,2 @@
-# Paradigmas_em_Python_Listas
-Repositório para Disciplina de Paradigmas em Python - Listas
+# Repositório para Listas da Disciplina de Paradigmas da Programa em Python 
+
